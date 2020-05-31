@@ -25,7 +25,6 @@ function hablar(nombre) {
       reject('Hubo un error')
     }, 1000)
   })
-  
 }
 
 console.log('Inicio el proceso...')
